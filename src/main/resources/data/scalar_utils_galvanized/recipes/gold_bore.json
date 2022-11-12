@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "scalar_utils_galvanized:gold_excavator"
+    },
+    {
+      "item": "scalar_utils_galvanized:gold_hammer"
+    }
+  ],
+  "result": {
+    "item": "scalar_utils_galvanized:gold_bore",
+    "count": 1
+  }
+}

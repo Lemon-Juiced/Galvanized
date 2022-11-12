@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "scalar_utils_galvanized:diamond_bore"
+  },
+  "addition": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "result": {
+    "item": "scalar_utils_galvanized:netherite_bore"
+  }
+}
