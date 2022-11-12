@@ -1,0 +1,24 @@
+{
+  "item.scalar_utils_galvanized.wooden_bore": "Wooden Bore",
+  "item.scalar_utils_galvanized.stone_bore": "Stone Bore",
+  "item.scalar_utils_galvanized.iron_bore": "Iron Bore",
+  "item.scalar_utils_galvanized.golden_bore": "Golden Bore",
+  "item.scalar_utils_galvanized.diamond_bore": "Diamond Bore",
+  "item.scalar_utils_galvanized.netherite_bore": "Netherite Bore",
+
+  "item.scalar_utils_galvanized.wooden_excavator": "Wooden Excavator",
+  "item.scalar_utils_galvanized.stone_excavator": "Stone Excavator",
+  "item.scalar_utils_galvanized.iron_excavator": "Iron Excavator",
+  "item.scalar_utils_galvanized.golden_excavator": "Golden Excavator",
+  "item.scalar_utils_galvanized.diamond_excavator": "Diamond Excavator",
+  "item.scalar_utils_galvanized.netherite_excavator": "Netherite Excavator",
+
+  "item.scalar_utils_galvanized.wooden_hammer": "Wooden Hammer",
+  "item.scalar_utils_galvanized.stone_hammer": "Stone Hammer",
+  "item.scalar_utils_galvanized.iron_hammer": "Iron Hammer",
+  "item.scalar_utils_galvanized.golden_hammer": "Golden Hammer",
+  "item.scalar_utils_galvanized.diamond_hammer": "Diamond Hammer",
+  "item.scalar_utils_galvanized.netherite_hammer": "Netherite Hammer",
+
+  "itemGroup.galvanizedTab": "Scalar Utils 4: Galvanized"
+}
