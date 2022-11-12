@@ -1,0 +1,10 @@
+{
+  "item.galvanized.wooden_hammer": "Wooden Hammer",
+  "item.galvanized.stone_hammer": "Stone Hammer",
+  "item.galvanized.iron_hammer": "Iron Hammer",
+  "item.galvanized.golden_hammer": "Golden Hammer",
+  "item.galvanized.diamond_hammer": "Diamond Hammer",
+  "item.galvanized.netherite_hammer": "Netherite Hammer",
+
+  "itemGroup.galvanizedTab": "Galvanized"
+}
