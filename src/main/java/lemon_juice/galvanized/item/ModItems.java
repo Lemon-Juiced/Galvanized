@@ -40,6 +40,7 @@ public class ModItems {
     public static final RegistryObject<Item> NETHERITE_HAMMER = ITEMS.register("netherite_hammer", () -> new HammerItem(Tiers.NETHERITE, new Item.Properties().tab(ModCreativeModeTab.GALVANIZED_TAB).durability(6093), 1));
 
     //Lumberaxes: Chops Down Whole Tree
+    //TO DO
 
     public static void register(IEventBus eventBus){
         ITEMS.register(eventBus);
