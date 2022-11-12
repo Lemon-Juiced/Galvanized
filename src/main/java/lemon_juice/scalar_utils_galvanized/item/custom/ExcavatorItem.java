@@ -33,7 +33,7 @@ public class ExcavatorItem extends DiggerItem {
     }
 
     public ExcavatorItem(Tier tier, Properties properties, int radius) {
-        super(5.0F, -3.0F, tier, DataTags.WITH_EXCAVATOR, properties);
+        super(1.5F, -3.0F, tier, DataTags.WITH_EXCAVATOR, properties);
         this.radius = radius;
     }
 

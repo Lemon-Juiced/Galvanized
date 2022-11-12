@@ -33,7 +33,7 @@ public class BoreItem extends DiggerItem {
     }
 
     public BoreItem(Tier tier, Properties properties, int radius) {
-        super(5.0F, -3.0F, tier, DataTags.WITH_BORE, properties);
+        super(1.0F, -2.8F, tier, DataTags.WITH_BORE, properties);
         this.radius = radius;
     }
 

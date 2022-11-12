@@ -33,7 +33,7 @@ public class HammerItem extends DiggerItem {
     }
 
     public HammerItem(Tier tier, Properties properties, int radius) {
-        super(5.0F, -3.0F, tier, DataTags.WITH_HAMMER, properties);
+        super(1.0F, -2.8F, tier, DataTags.WITH_HAMMER, properties);
         this.radius = radius;
     }
 
