@@ -7,7 +7,7 @@
   ],
   "key": {
     "#": {
-      "tag": "minecraft:cobblestone"
+      "tag": "forge:cobblestone"
     },
     "/": {
       "item": "minecraft:stick"
